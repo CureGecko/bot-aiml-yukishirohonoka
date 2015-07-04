@@ -70,37 +70,7 @@
 <category><pattern># TELL ME A DIRTY JOKE #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
-<category><pattern># SHOW ME A VAGINA #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME A PICTURE OF NUDE #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME A PICTURE OF BOOBIES #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME A NAKED #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME PORN #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
 <category><pattern># TEENBLOWJOB #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME SOME PORN #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME TITS #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME NUDE #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME VAGINA #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME YOUR VAGINA #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
 <category><pattern># YOU TURN ME ON #</pattern>
@@ -370,9 +340,6 @@
 <category><pattern># PORNOS #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
-<category><pattern># SHOW ME A PICTURE OF A NAKED #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
 <category><pattern># I LIKE VAGINA #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
@@ -436,9 +403,6 @@
 <category><pattern># SEXXX #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
-<category><pattern># SHOW ME A PICTURE OF A STRIPPER #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
 <category><pattern># I WANT TO SUCK YOUR #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
@@ -454,16 +418,10 @@
 <category><pattern># BEND OVER #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
-<category><pattern># SHOW ME YOUR ASS #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
 <category><pattern># DICK #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
 <category><pattern># GIRLASS #</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern># SHOW ME GIRL #</pattern>
 <template><srai>FILTER INAPPROPRIATE</srai></template>
 </category>
 <category><pattern># I AM NAKED #</pattern>

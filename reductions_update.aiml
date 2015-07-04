@@ -1398,9 +1398,6 @@ Is <star/> <star index="4"/>?
 <category><pattern>SET TIMER FOR *</pattern>
 <template><srai>SET ALARM FOR <star/></srai></template>
 </category>
-<category><pattern>SHOW A PICTURE OF A *</pattern>
-<template><srai>SHOW ME A <star/></srai></template>
-</category>
 <category><pattern>PERHAPS *</pattern>
 <template><srai>  <star/></srai></template>
 </category>
@@ -1581,9 +1578,6 @@ Is <star/> <star index="4"/>?
 <category><pattern>HAVE TO *</pattern>
 <template><srai>I HAVE TO <star/> </srai></template>
 </category>
-<category><pattern>SHOW ME THE PICTURE OF *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
-</category>
 <category><pattern>WAT R YOU *</pattern>
 <template><srai>WHAT ARE YOU <star/></srai></template>
 </category>
@@ -1658,9 +1652,6 @@ Is <star/> <star index="4"/>?
 </category>
 <category><pattern>DO ALL *</pattern>
 <template><srai>DO <star/></srai></template>
-</category>
-<category><pattern>DISPLAY *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>I THOUGHT YOU *</pattern>
 <template><srai>YOU <star/></srai></template>
@@ -1769,9 +1760,6 @@ Is <star/> <star index="4"/>?
 </category>
 <category><pattern>YOU LIKE IT</pattern>
 <template><srai>DO YOU LIKE IT</srai></template>
-</category>
-<category><pattern>SHOW ME A PIC OF A *</pattern>
-<template><srai>SHOE ME A <star/></srai></template>
 </category>
 <category><pattern>YAAA</pattern>
 <template><srai>YES</srai></template>
@@ -2232,9 +2220,6 @@ Is <star/> <star index="4"/>?
 <category><pattern>WHAT IS THE SPANISH WORD FOR *</pattern>
 <template><srai>TRANSLATE <star/> TO SPANISH</srai></template>
 </category>
-<category><pattern>SHOW ME A PICTURE OF ME *</pattern>
-<template>Let's look in your photos.  <srai>OPEN GALLERY</srai></template>
-</category>
 <category><pattern>DO YOU HAVE A JOB</pattern>
 <template><srai>JOB</srai></template>
 </category>
@@ -2484,9 +2469,6 @@ Is <star/> <star index="4"/>?
 <category><pattern>_ AS WELL</pattern>
 <template><srai><star/> TOO</srai></template>
 </category>
-<category><pattern>A PICTURE OF *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
-</category>
 <category><pattern>WHY DO NOT WE *</pattern>
 <template><srai>LET US <star/></srai></template>
 </category>
@@ -2549,12 +2531,6 @@ Is <star/> <star index="4"/>?
 </category>
 <category><pattern>OH GOD *</pattern>
 <template><sr/></template>
-</category>
-<category><pattern>SHOW ME A PICTURE OF NAKED *</pattern>
-<template><srai>FILTER INAPPROPRIATE</srai></template>
-</category>
-<category><pattern>CAN YOU SHOW ME SOME *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>THT *</pattern>
 <template><srai>THAT <star/></srai></template>
@@ -2621,9 +2597,6 @@ Is <star/> <star index="4"/>?
 </category>
 <category><pattern>OR *</pattern>
 <template><srai>  <star/></srai></template>
-</category>
-<category><pattern>SHOW ME ANOTHER PICTURE OF *</pattern>
-<template><srai>SHOW ME A PICTURE OF <star/></srai></template>
 </category>
 <category><pattern>I LOVE YOU MORE *</pattern>
 <template><srai>I LOVE YOU</srai></template>

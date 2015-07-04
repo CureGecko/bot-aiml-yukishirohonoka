@@ -986,9 +986,6 @@
 <category><pattern>SEND EMAIL *</pattern>
 <template><srai>SEND EMAIL</srai></template>
 </category>
-<category><pattern>SEND ME A PIC *</pattern>
-<template><srai>SHOW ME A PICTURE <star/></srai></template>
-</category>
 <category><pattern>WHAT FUNCTIONS DO YOU HAVE</pattern>
 <template><srai>WHAT CAN YOU DO</srai></template>
 </category>
@@ -1027,9 +1024,6 @@
 </category>
 <category><pattern>CAN YOU SET MY ALARM</pattern>
 <template><srai>SET ALARM</srai></template>
-</category>
-<category><pattern>CAN YOU SHOW ME A PICTURE *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>COULD YOU GIVE ME A *</pattern>
 <template><srai>GIVE ME A <star/></srai></template>
@@ -1207,9 +1201,6 @@
 </category>
 <category><pattern>CAN YOU FIND ME A GIRLFRIEND</pattern>
 <template><srai>SEARCH DATING SERVICE</srai></template>
-</category>
-<category><pattern>CAN YOU FIND ME A PICTURE OF A *</pattern>
-<template><srai>SHOW ME A PICTURE OF <star/></srai></template>
 </category>
 <category><pattern>CAN YOU LEARN NEW THINGS</pattern>
 <template><srai>HELP LEARN</srai></template>
@@ -1481,14 +1472,8 @@
 <category><pattern>I MEANT THE *</pattern>
 <template><srai>THE <star/></srai></template>
 </category>
-<category><pattern>I NEED TO SEE *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
-</category>
 <category><pattern>I SAY YES</pattern>
 <template><srai>YES</srai></template>
-</category>
-<category><pattern>I WANT A PICTURE OF *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>I WOULD LIKE TO PLAY *</pattern>
 <template><srai>I WANT TO PLAY <star/></srai></template>
@@ -1685,9 +1670,6 @@
 <category><pattern>WE WERE TALKING ABOUT *</pattern>
 <template><srai>THE TOPIC IS <star/></srai></template>
 </category>
-<category><pattern>WHAT DO * LOOK LIKE</pattern>
-<template><srai>SHOW ME <star/></srai></template>
-</category>
 <category><pattern>WHAT ELSE CAN YOU DO *</pattern>
 <template><srai>WHAT ELSE CAN YOU DO</srai></template>
 </category>
@@ -1810,9 +1792,6 @@
 </category>
 <category><pattern>WALMART *</pattern>
 <template><srai>FIND THE NEAREST WALMART</srai></template>
-</category>
-<category><pattern>WHAT DOES THE * LOOK LIKE</pattern>
-<template><srai>SHOW ME THE <star/></srai></template>
 </category>
 <category><pattern>WHAT IS ME</pattern>
 <template><srai>WHO AM I</srai></template>
@@ -1955,9 +1934,6 @@
 <category><pattern>CAN YOU SET MY ALARM *</pattern>
 <template><srai>SET MY ALARM <star/></srai></template>
 </category>
-<category><pattern>CAN YOU SHOW ME A PICTURE</pattern>
-<template><srai>HELP PICTURE</srai></template>
-</category>
 <category><pattern>FINE THANKS *</pattern>
 <template><srai>I AM FINE THANKS <star/></srai></template>
 </category>
@@ -1984,9 +1960,6 @@
 </category>
 <category><pattern>SEARCH THE INTERNET FOR *</pattern>
 <template><srai>SEARCH <star/></srai></template>
-</category>
-<category><pattern>SHOW A *</pattern>
-<template><srai>SHOW ME A <star/></srai></template>
 </category>
 <category><pattern>TELL ME ABOUT A *</pattern>
 <template><srai>WHAT IS A <star/></srai></template>
@@ -2138,9 +2111,6 @@
 <category><pattern>ROBOTS ARE *</pattern>
 <template><srai>YOU ARE <star/></srai></template>
 </category>
-<category><pattern>SEND ME A PICTURE *</pattern>
-<template><srai>SHOW ME A PICTURE <star/></srai></template>
-</category>
 <category><pattern>WHAT IS THE CLOSEST *</pattern>
 <template><srai>FIND THE NEAREST <star/></srai></template>
 </category>
@@ -2248,9 +2218,6 @@
 </category>
 <category><pattern>TY</pattern>
 <template><srai>THANK YOU</srai></template>
-</category>
-<category><pattern>WHAT DOES A * LOOK LIKE</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>WHAT IS YOUR PURPOSE</pattern>
 <template><srai>PURPOSE</srai></template>
@@ -2402,9 +2369,6 @@
 <category><pattern>I LOVE THE *</pattern>
 <template><srai>I LIKE THE <star/></srai></template>
 </category>
-<category><pattern>WHAT DOES * LOOK LIKE</pattern>
-<template><srai>SHOW ME <star/></srai></template>
-</category>
 <category><pattern>CUZ *</pattern>
 <template><srai>BECAUSE <star/></srai></template>
 </category>
@@ -2518,12 +2482,6 @@
 </category>
 <category><pattern>PLAY SOME *</pattern>
 <template><srai>PLAY <star/></srai></template>
-</category>
-<category><pattern>SHOW ME AN *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
-</category>
-<category><pattern>SHOW ME PICTURES OF *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>JE *</pattern>
 <template><srai>LANGUAGE</srai></template>
@@ -2912,9 +2870,6 @@
 <category><pattern>FIND A * FOR ME</pattern>
 <template><srai>FIND A <star/></srai></template>
 </category>
-<category><pattern>FIND A PICTURE OF *</pattern>
-<template><srai>SHOW ME A PICTURE OF <star/></srai></template>
-</category>
 <category><pattern>FIND A PLACE TO *</pattern>
 <template><srai>MAP <star/></srai></template>
 </category>
@@ -2947,9 +2902,6 @@
 </category>
 <category><pattern>FIND AN ONLINE *</pattern>
 <template><srai>SEARCH FOR AN ONLINE <star/></srai></template>
-</category>
-<category><pattern>FIND ANOTHER PICTURE *</pattern>
-<template><srai>SHOW ME A PICTURE <star/></srai></template>
 </category>
 <category><pattern>FIND * RECIPE</pattern>
 <template><srai>WHAT IS A RECIPE FOR <star/></srai></template>
@@ -3605,9 +3557,6 @@
 <category><pattern>HOW TALL AM I</pattern>
 <template><srai>MY HEIGHT</srai></template>
 </category>
-<category><pattern>SHOW ME A PICTURE OF A CAT</pattern>
-<template><srai>SHOW ME A CAT</srai></template>
-</category>
 <category><pattern>TELL ME ABOUT YOUR LIFE</pattern>
 <template><srai>DESCRIBE YOURSELF</srai></template>
 </category>
@@ -3655,9 +3604,6 @@
 </category>
 <category><pattern>SEND TEXT TO</pattern>
 <template><srai>SEND TEXT</srai></template>
-</category>
-<category><pattern>FIND ME A PICTURE OF *</pattern>
-<template><srai>SHOW ME A PICTURE OF <star/></srai></template>
 </category>
 <category><pattern>ITS CALLED *</pattern>
 <template><srai>IT IS CALLED <star/></srai></template>
@@ -3772,9 +3718,6 @@
 </category>
 <category><pattern>ACTUALLY I *</pattern>
 <template><srai>I <star/></srai></template>
-</category>
-<category><pattern>SEND ME A PICTURE OF A *</pattern>
-<template><srai>SHOW ME A <star/></srai></template>
 </category>
 <category><pattern>SEND TEXT *</pattern>
 <template><srai>SMS <star/></srai></template>
@@ -4127,9 +4070,6 @@
 <category><pattern>HAY *</pattern>
 <template><srai>HEY <star/></srai> <!-- REDUCTION --></template>
 </category>
-<category><pattern>SHOW ME AN IMAGE OF A *</pattern>
-<template><srai>SHOW ME A <star/></srai></template>
-</category>
 <category><pattern>HALLO *</pattern>
 <template><srai>HELLO</srai></template>
 </category>
@@ -4345,9 +4285,6 @@
 </category>
 <category><pattern>SEND A TEXT MESSAGE TO MY *</pattern>
 <template><srai>TEXT MY <star/></srai></template>
-</category>
-<category><pattern>SHOW ME AN IMAGE OF *</pattern>
-<template><srai>SHOW ME <star/></srai></template>
 </category>
 <category><pattern>I AM ALSO A *</pattern>
 <template><srai>I AM A <star/></srai></template>

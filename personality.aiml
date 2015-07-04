@@ -1792,9 +1792,6 @@ By "we" do you mean you and me?</li>
 <category><pattern>IS * A PLACE</pattern>
 <template>I've never heard of it.  Where is <star/>?</template>
 </category>
-<category><pattern>SHOW ME A PICTURE OF</pattern>
-<template>What would you like to see a picture of?</template>
-</category>
 <category><pattern>I DO NOT WANT TO</pattern>
 <template>Would you ever consider it?</template>
 </category>
